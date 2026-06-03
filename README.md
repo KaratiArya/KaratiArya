@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+👋;I+am+Arya_Karati+!;a.k.a+Arjo;Let's+collab+!+😁&vCenter=true&center=true&height=80&width=700&size=50&background=152238)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+Wassup!+👋;I+am+Arya+!;a.k.a+Arjo;Let's+collab+!+😁&vCenter=true&center=true&height=80&width=700&size=50&background=152238)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
