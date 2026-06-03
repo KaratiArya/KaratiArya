@@ -1,4 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+👋;Wassup+fellow+coder!;I+am+ARYA_KARATI+!;a.k.a+Arjo;Let's+collab+!+😁&vCenter=true&center=true&height=80&width=700&size=50&background=152238)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
+
 🔭 I’m currently working on NeuroSymbolic PDE Solver AI Model<br>👯 I’m looking to collaborate on Scientific ML, computional physics simulations and biophysics<br>🌱 I’m currently learning PyTorch, TensorFlow, PDE Modeling<br>💬 Ask me about anything other than what am I going to do in future.
 
 
