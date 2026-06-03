@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 Hi, I’m Arya Karati, a Bachelor of Science (Research) student at the Indian Institute of Science (IISc).
--🔭 I’m currently working on NeuroSymbolic PDE Solver AI Model<br>👯 I’m looking to collaborate on Scientific ML, computional physics simulations and biophysics<br>🌱 I’m currently learning PyTorch, TensorFlow, PDE Modeling<br>💬 Ask me about anything other than what am I going to do in future.
+<br>🔭 I’m currently working on NeuroSymbolic PDE Solver AI Model<br>👯 I’m looking to collaborate on Scientific ML, computional physics simulations and biophysics<br>🌱 I’m currently learning PyTorch, TensorFlow, PDE Modeling<br>💬 Ask me about anything other than what am I going to do in future.
 
 
 ## 🌐 Socials:
